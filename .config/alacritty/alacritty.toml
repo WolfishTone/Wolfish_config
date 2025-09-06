@@ -1,0 +1,6 @@
+[general]
+import = [
+    "~/.config/alacritty/themes/themes/omni.toml"
+]
+[font]
+size = 8
